@@ -8,7 +8,7 @@
     "text": "Milos Resimic"
   },
   "text": {
-    "more": "Protests #1od5milona against rising autocracy, media censorship and political violence were held throughout Serbia this week. This is the network of retweets consisting of 4773 nodes and 12207 edges, scraped between February 17-24. An edge exists between two users, if one user retweets another user\u0027s tweet. I used netwotksplitter 3D plugin to illustrate how heavily centralized pro-govt community is (light green color), while much more dispersed is the network of anti-govt users.",
+    "more": "Protests #1od5milona against rising autocracy, media censorship and political violence were held throughout Serbia this week. This is the network of retweets consisting of 4773 nodes and 12207 edges, scraped between February 17-24. An edge exists between two users, if one user retweets another user\u0027s.",
     "intro": " ",
     "title": "Twitterverse of #1od5miliona protests"
   },
